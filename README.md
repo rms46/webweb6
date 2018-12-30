@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/rms46/webweb6/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<img src="gimp-github-01.jpg"  width="800">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="gimp-github-02.jpg"  width="800">
 
-### Markdown
+<img src="gimp-github-03.jpg"  width="800">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src="gimp-github-04.jpg"  width="800">
 
-```markdown
-Syntax highlighted code block
+<img src="gimp-github-05.jpg"  width="800">
 
-# Header 1
-## Header 2
-### Header 3
+<img src="gimp-github-06.jpg"  width="800">
 
-- Bulleted
-- List
+<img src="gimp-github-07.jpg"  width="800">
 
-1. Numbered
-2. List
+<img src="gimp-github-08.jpg"  width="800">
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rms46/webweb6/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
