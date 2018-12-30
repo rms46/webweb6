@@ -1,4 +1,4 @@
-# GitHub Pages
+# GitHub Pages 101
 
 ## (1) = = =
 
@@ -32,3 +32,4 @@
 
 <img src="pictures/gimp-github-08.jpg"  width="800">
 
+## [NEXT: https://rms46.github.io/webweb7/](https://rms46.github.io/webweb6/) = = = = = =
