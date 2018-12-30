@@ -1,12 +1,14 @@
 # GitHub Pages
 
-## (1) ##
+## (1) = = =
 
 <img src="pictures/gimp-github-01.jpg"  width="800">
 
-## (2) ##
+## (2) = = =
 
 <img src="pictures/gimp-github-02.jpg"  width="800">
+
+## (3) = = =
 
 <img src="pictures/gimp-github-03.jpg"  width="800">
 
