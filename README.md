@@ -32,4 +32,4 @@
 
 <img src="pictures/gimp-github-08.jpg"  width="800">
 
-## = = = = = = [NEXT: https://rms46.github.io/webweb7/](https://rms46.github.io/webweb7/) = = = = = =
+## = = = = = = [NEXT: Git for Windows 10](https://rms46.github.io/webweb7/) = = = = = =
